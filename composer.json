@@ -1,0 +1,23 @@
+{
+  "name": "wechat/wechat",
+  "type": "library",
+  "description": "wechat",
+  "license": "MIT",
+  "keywords": [
+    "wechat"
+  ],
+  "authors": [
+    {
+      "name": "ygy",
+      "email": "123@ygy.top"
+    }
+  ],
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "Wechat001\\": "src/Wechat"
+    }
+  }
+}
